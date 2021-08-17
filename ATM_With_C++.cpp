@@ -1,4 +1,6 @@
+
 #include<iostream>
+
 #include<string>
 #include<fstream>
 using namespace std;
@@ -46,6 +48,7 @@ void check() {
 	while (i < 3 && pass!="sgerc@as12$ALj") {
 		cout << "Enter the password:";
 		cin >> pass;
+		cout<<"HIIIIIIIIIIIIIIIIIIIIIoiyiouotuotuouIIIIIIIII"
 		i++;
 	}if (i >= 3) {
 		cout << "Your are not allowed to do more";
