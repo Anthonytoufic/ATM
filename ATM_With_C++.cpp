@@ -2,8 +2,11 @@
 #include<iostream>
 
 #include<string>
+
 #include<fstream>
+
 using namespace std;
+
 int money[6] = { 100,50,20,10,5,1 };
 int occ[6] = { 1,75,100,100,100,100 };
 void deposit() {
